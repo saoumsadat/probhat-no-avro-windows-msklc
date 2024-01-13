@@ -1,5 +1,5 @@
 # probhat-no-avro-windows-msklc
-Bangla edible probhat layout on windows without any third party application through MSKLC(Microsoft Keyboard Layout Creator)
+Bangla edible probhat layout on windows without any third party software like Avro through MSKLC(Microsoft Keyboard Layout Creator)
 
 To install:
 1. Just run setup.exe
